@@ -1,5 +1,5 @@
 import numpy as np
-import cv2
+import cv2 
 
 def scale(scl, s):
 	ka = (h-1)/2; a=np.linspace(-ka,ka,h)
